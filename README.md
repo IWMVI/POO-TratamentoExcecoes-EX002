@@ -2,7 +2,7 @@
 
 Considere o Objeto conta, com uma classe para testes e que tem como atributos, agencia:
 int, código:int, saldo:int e limite: float, com um construtor default implementado e seus
-geters e seters implementados. O objeto deve ter, também, implementados os métodos
+getters e setters implementados. O objeto deve ter, também, implementados os métodos
 deposita que recebe um float e soma o valor ao saldo disponível e saca, que recebe um float
 e subtrai o valor do saldo disponível. O método saca tem uma limitação aritmética que deve
 ser tratada em formato de exceção:
